@@ -1,2 +1,2 @@
 # freeCodeCamp Responsive Web Design
-Learn More About CSS Pseudo Selectors By Building A Balance Sheet
+Learn More About CSS Pseudo Selectors by Building a Balance Sheet
